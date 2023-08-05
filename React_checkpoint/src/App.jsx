@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 const App = () => {
   return (
-    <react fragment>
+    <React.Fragment>
       <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
@@ -42,7 +42,7 @@ const App = () => {
   </div>
 </nav>
       </div>
-    </react>
+    </React.Fragment>
 
 
 
